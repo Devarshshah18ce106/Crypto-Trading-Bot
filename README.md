@@ -7,3 +7,4 @@ consistent returns.
 the assets he is holding on the basis of the technical indicators.
 - The account information of the client will be fetched with the help of the API keys provided by the Binance exchange.
 
+![image](https://user-images.githubusercontent.com/54533817/124750077-a9878a80-df42-11eb-9f7b-fe0517db02d8.png)
